@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircuitBreaker", "CircuitBreaker\CircuitBreaker.csproj", "{A28D672D-3090-4D12-8D3C-DA60A8086F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheAside", "CacheAside\CacheAside.csproj", "{CE23F354-AA9F-4471-9904-7E3C0C952E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValetKey", "ValetKey\ValetKey.csproj", "{ED40A21B-F752-48BA-8EC6-63189B30D7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28D672D-3090-4D12-8D3C-DA60A8086F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28D672D-3090-4D12-8D3C-DA60A8086F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28D672D-3090-4D12-8D3C-DA60A8086F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28D672D-3090-4D12-8D3C-DA60A8086F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE23F354-AA9F-4471-9904-7E3C0C952E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE23F354-AA9F-4471-9904-7E3C0C952E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE23F354-AA9F-4471-9904-7E3C0C952E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE23F354-AA9F-4471-9904-7E3C0C952E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED40A21B-F752-48BA-8EC6-63189B30D7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED40A21B-F752-48BA-8EC6-63189B30D7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED40A21B-F752-48BA-8EC6-63189B30D7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED40A21B-F752-48BA-8EC6-63189B30D7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
